@@ -1,0 +1,2 @@
+[27-Nov-2017 18:38:45 UTC] PHP Fatal error:  Class 'Walker' not found in /home/seoitzone/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[19-Jan-2018 23:03:02 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/seoitzone/public_html/wp-includes/locale.php on line 10
